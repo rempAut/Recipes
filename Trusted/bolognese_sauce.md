@@ -1,6 +1,6 @@
 # Info
 
-This recipe is a scaled down version of [Adam Ragusea's bolognese sauce](https://www.youtube.com/watch?v=V5WR-K0zJYs&t=319s&ab_channel=AdamRagusea).
+This recipe is a scaled down version of [Adam Ragusea's bolognese sauce](https://www.youtube.com/watch?v=V5WR-K0zJYs).
 
 The volume fits perfectly into a 4.5 litre pot, making it good choice for make ahead. Freezes well too.
 
@@ -15,6 +15,7 @@ The volume fits perfectly into a 4.5 litre pot, making it good choice for make a
 * 1x 500 g [tomatoes passata](https://konzervovana-nakladana-zelenina.heureka.cz/podravka-rajcata-pasirovana-500-g/?gclid=CjwKCAiAmJGgBhAZEiwA1JZolpbp84Wh65e4HRMV-wPOXUMlEc8-OVDkhx-vr_zsxIKKc9UsQgLzYxoCb0wQAvD_BwE#prehled/https:/)
 * 400 ml white wine (pick sweeter if you like sweet)
 * 1 (28g) portion liquid of [liquid chicken buyon](https://nakup.itesco.cz/groceries/cs-CZ/products/2001019510991?gclid=CjwKCAiAmJGgBhAZEiwA1JZolibVA85-w2CdYOeCb6o0VpxakXzeFlwtVWUtCd-Q0jJdLJctm6F1FxoCgwYQAvD_BwE)
+* olive oil
 
 ### Spices
 
@@ -29,4 +30,10 @@ The volume fits perfectly into a 4.5 litre pot, making it good choice for make a
 
 # Instructions
 
-Just follow the video. [Adam Ragusea's bolognese sauce](https://www.youtube.com/watch?v=V5WR-K0zJYs&t=319s&ab_channel=AdamRagusea).
+Just follow the video. [Adam Ragusea's bolognese sauce](https://www.youtube.com/watch?v=V5WR-K0zJYs).
+
+# Experience
+### Glass ceramic hob power (X out of 10)
+* use 7 and 6 on the veggies
+* use 8 when starting the meat, turn down if it starts
+* it is enough to stir every 20 minutes if I keep it at 2 or 3
