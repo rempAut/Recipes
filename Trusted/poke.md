@@ -6,7 +6,7 @@ Recept na základní poké, tak jak nám s Mišou chutná.
 * Rýže
 
 ## Přílohy
-### sladke / ovoce
+### sladké / ovoce
 * jablka, bez šlupky, na kostičky
 * Mango
 * nektarinka
@@ -24,9 +24,9 @@ Recept na základní poké, tak jak nám s Mišou chutná.
 * ústřicová omáčka [link](https://www.chopsticks.cz/lee-kum-kee-omacka-ustricova-panda-510g/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zXU9lYgFNOfrJQNg65r2n5ZweIxZmmSKBV3KSP7j7aTOVLol8k0QMaAkMBEALw_wcB)
 
 
-## Dalsi
-* majoneza
-* sul
+## Další
+* Majonéza
+* Sůl
 
 # Postup
 * uvaříš rýži, pro dva míváme tak 120 - 140 g rýže.
@@ -34,6 +34,7 @@ Recept na základní poké, tak jak nám s Mišou chutná.
 
 # Příprava masa
 * Nejlepší je tak minimálně hodinu předem z obou stran posolit. Pokud máš kuřecí prsa, rozřízni ho podélně napůl a obe části posol. Jedno prso je tak akorát pro 2 lidi.
+* 
 * Rozehřejes pánev, obe masa potři malou lžičkou majonézy - dělám to rukama. Hodím je na rozehřátou pánev, mělo by to začít syčet když to tam hodíš, ale ne zas moc. Necháš je 5 minut na jedné straně, 5 minut na druhé, já se u prs řídím teploměrem na 68 stupňů Celsia, ale jestli nemáš tak stačí zase 4 a 4 minuty z každé strany.
 * Hotové maso si vytáhni na prkynko a nech ho tam 1-2 minuty.
 * Nakonec maso pokrájej a promíchej v misce s omáčkou
