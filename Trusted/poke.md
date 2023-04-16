@@ -13,7 +13,7 @@ Recept na základní poké, tak jak nám s Mišou chutná.
 
 ### Zelenina
 * Okurka
-* mrkvový salát (pošlu odkaz)
+* [mrkvový salát](asijsky_mrkvovy_salat.md)
 * edamame fazolky - mají mražené v Lidlu
 * paprika červená
 * avokádo
