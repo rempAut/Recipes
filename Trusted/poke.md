@@ -1,27 +1,27 @@
 # Info
-Recept na zakladni poke, tak jak nam s Misou chutna.
+Recept na základní poké, tak jak nám s Mišou chutná.
 
 # Ingredience
 * kuřecí maso (prsa nebo stehna)
 * Rýže
 
 ## Přílohy
-## sladke / ovoce
+### sladke / ovoce
 * jablka, bez šlupky, na kostičky
 * Mango
 * nektarinka
 
-## Zelenina
-* Okurek
-* mrkvovy salat (poslu odkaz)
-* edame fazolky - maji mrazene v lidlu
-* paprika cervena
-* avokado
+### Zelenina
+* Okurka
+* mrkvový salát (pošlu odkaz)
+* edamame fazolky - mají mražené v Lidlu
+* paprika červená
+* avokádo
 
-## Omacky
-* cholimex cesnekova omacka [link](https://www.jasmino.cz/cholimex-chilli-cesnekova-omacka-12x250ml)
-* sojova omacka
-* ustricova omacka [link](https://www.chopsticks.cz/lee-kum-kee-omacka-ustricova-panda-510g/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zXU9lYgFNOfrJQNg65r2n5ZweIxZmmSKBV3KSP7j7aTOVLol8k0QMaAkMBEALw_wcB)
+## Omáčky
+* cholimex česneková omáčka [link](https://www.jasmino.cz/cholimex-chilli-cesnekova-omacka-12x250ml)
+* sójová omáčka
+* ústřicová omáčka [link](https://www.chopsticks.cz/lee-kum-kee-omacka-ustricova-panda-510g/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zXU9lYgFNOfrJQNg65r2n5ZweIxZmmSKBV3KSP7j7aTOVLol8k0QMaAkMBEALw_wcB)
 
 
 ## Dalsi
@@ -29,20 +29,19 @@ Recept na zakladni poke, tak jak nam s Misou chutna.
 * sul
 
 # Postup
-* uvaris ryzi
-* obvykle vybirame 4 veci z priloh - v 99% procentech mivame okurek, mrkvovy salat, neco z ovoce, a edame nebo avokado. Prilohy krajej tak jak to mate radi :D 
+* uvaříš rýži, pro dva míváme tak 120 - 140 g rýže.
+* obvykle vybíráme 4 věci z příloh - v 99% procentech máme okurku, mrkvový salát, něco z ovoce, a edamame nebo avokádo. Přílohy krájíme na kostičky.
 
-## priprava masa
-* nejlepsi je tak minimalne hodinu predem z obou stran posolit. Pokud mas kureci prsa, rozrizni ho podelne napul a obe casti posol. Jedno prso je tak akorat pro 2 lidi.
-* rozehrejes panev, obe masa potres malou lzickou majonezy - delam to rukama... hodim je na rozehratou panev, melo by to zacit sycet kdyz to tam hodis. Nechas je 5 minut na jedne strane, 5 minut na druhe, ja se u prs ridim teplomerem na 68 stupnu Celsia, ale jestli nemas tak staci zase 4 a 4 minuty z kazde strany.
-* Hotove maso si vytahni na prkynko a nech ho tam 1-2 minuty.
-* nakonec maso pokraj a promichej v misce s omackou
+# Příprava masa
+* Nejlepší je tak minimálně hodinu předem z obou stran posolit. Pokud máš kuřecí prsa, rozřízni ho podélně napůl a obe části posol. Jedno prso je tak akorát pro 2 lidi.
+* Rozehřejes pánev, obe masa potři malou lžičkou majonézy - dělám to rukama. Hodím je na rozehřátou pánev, mělo by to začít syčet když to tam hodíš, ale ne zas moc. Necháš je 5 minut na jedné straně, 5 minut na druhé, já se u prs řídím teploměrem na 68 stupňů Celsia, ale jestli nemáš tak stačí zase 4 a 4 minuty z každé strany.
+* Hotové maso si vytáhni na prkynko a nech ho tam 1-2 minuty.
+* Nakonec maso pokrájej a promíchej v misce s omáčkou
 
-## Omacka
-- 1 lzice sojove omacky
-- 2 lzice ustricove omacky
-- 1-2 lzice cervene cholimex omacky, nebo nejake jine palivejsi, zalezi jak moc to chcete mit palive.
-- muzes podle chuti osladit - cukr, med, avokadovy sirup... cokoliv
-- muzes podle chuti okyselit - nejlepsi je citronovou stavou, ocet se tak moc nehodi.
-- vsechno to smichas
-
+## Omáčka
+* 1 lžíce sójové omáčky
+* 2 lžíce ústřicové omáčky
+* 1-2 lžíce červené cholimex omáčky, nebo nějaké jiné pálivější, záleží jak moc to chcete mít pálivé.
+* můžeš podle chuti osladit - cukr, med, agávový sirup... cokoliv
+* můžeš podle chuti okyselit - nejlepší je citronovou šťávou, ocet se tak moc nehodí.
+* Všechno to smíchám v misce do které pak přidám nakrájené maso
