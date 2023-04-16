@@ -6,7 +6,7 @@ Recept na základní poké, tak jak nám s Mišou chutná.
 * Rýže
 
 ## Přílohy
-### sladke / ovoce
+### sladké / ovoce
 * jablka, bez šlupky, na kostičky
 * Mango
 * nektarinka
@@ -24,9 +24,9 @@ Recept na základní poké, tak jak nám s Mišou chutná.
 * ústřicová omáčka [link](https://www.chopsticks.cz/lee-kum-kee-omacka-ustricova-panda-510g/?gclid=Cj0KCQjwlumhBhClARIsABO6p-zXU9lYgFNOfrJQNg65r2n5ZweIxZmmSKBV3KSP7j7aTOVLol8k0QMaAkMBEALw_wcB)
 
 
-## Dalsi
-* majoneza
-* sul
+## Další
+* Majonéza
+* Sůl
 
 # Postup
 * uvaříš rýži, pro dva míváme tak 120 - 140 g rýže.
