@@ -3,11 +3,11 @@ https://www.youtube.com/watch?v=puHSU9ZaZPY&ab_channel=AdamRagusea
 
 # Ingredients - For the sauce:
 
-* 1 tablespoon fish sauce (can use soy sauce instead)
-* 2 tablespoons sugar
-* 1/2-2 teaspoons tamarind concentrate (I used 2 and loved it, but Lauren thought it was way too acidic)
-* 2 tablespoons ketchup
-* 1 teaspoon soy sauce (very optional)
+* 1 table-spoon fish sauce (can use soy sauce instead)
+* 2 table-spoons sugar
+* 1/2-2 tea-spoons tamarind concentrate (I used 2 and loved it, but Lauren thought it was way too acidic)
+* 2 table-spoons ketchup
+* 1 tea-spoon soy sauce (very optional)
 
 
 * It's possible to replace both the fish sauce and tamarind with 3-4 tablespoons of Worcestershire sauce. Not the same, but pretty good.
